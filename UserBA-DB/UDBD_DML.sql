@@ -1,0 +1,1 @@
+select * from uba_user;
